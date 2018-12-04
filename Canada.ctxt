@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Canada
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Canada\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Canada()
+comment1.text=\r\n\ Creates\ all\ the\ provinces,\ province's\ capital\ and\ province's\ largest\ city\ by\ population\r\n
+comment2.params=province
+comment2.target=java.lang.String\ getCapitalCityOf(java.lang.String)
+comment2.text=\r\nGets\ the\ capital\ city\ of\ province\ entered\r\n@param\ province\ name\ of\ the\ province\ \r\n
+comment3.params=province
+comment3.target=java.lang.String\ getLargestCityOf(java.lang.String)
+comment3.text=\r\n\ Gets\ the\ largest\ city\ of\ province\ entered\r\n\ @param\ province\ name\ of\ the\ province\r\n
+comment4.params=city
+comment4.target=java.lang.String\ getProvinceWhoseCapitalIs(java.lang.String)
+comment4.text=\r\n\ Gets\ the\ province\ whose\ capital\ city\ is\ entered\r\n\ @param\ city\ is\ the\ capital\ city\r\n
+comment5.params=
+comment5.target=void\ displayAllProvinceInfo()
+comment5.text=\r\n\ prints\ all\ province\ info\r\n
+numComments=6
